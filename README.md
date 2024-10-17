@@ -22,7 +22,7 @@
 - Análise de Imagens.
 - Fluxos de Trabalhos.
 
-## Explorado até o momento🔍:
+## 🔍Explorado até o momento:
 
 ## Freeviz
 ### Objetivo:
