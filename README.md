@@ -22,6 +22,8 @@
 - Análise de Imagens.
 - Fluxos de Trabalhos.
 
+## Explorado até o momento🔍:
+
 ## Freeviz
 ### Objetivo:
 - Ver dados em varias dimensões, variaveis e suas correlações dentro dos graficos, enxerga de forma tridimensional relação de variaveis com a legenda.
@@ -38,5 +40,5 @@
 - Cluster vai se basear em distancia, para realizar identificações de semelhanças em imagens.
 ![cluester](https://github.com/user-attachments/assets/3e53bdfd-5748-4a64-9bde-4df5e15b45e4)
 
-### Resultado de semelhança entre imagens apos verificação do cluster:
+#### Resultado de semelhança entre imagens apos verificação do cluster:
 ![imagecluster](https://github.com/user-attachments/assets/b5081dc0-3aa5-45c1-9fc0-f0e2f6a66947)
