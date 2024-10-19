@@ -5,6 +5,7 @@
 - Automatização de tarefas com Python.
 - Análises Estatisticas.
 - Análise de dados de insights.
+- ETL.
 
 ## 🔍Explorado até o momento:
 
