@@ -1,12 +1,12 @@
-## Repository focused on new learnings about Data Intelligence 🎲.
+# Este repositorio é focado em novas descobertas sobre o mundo de dados e como ele pode ser usado de forma inteligente.
 
-### Topics:
-- Orange Data Mining 
-- Data manipulation with Python.
-- Automation of processes in Excel.
-- Data treatment.
-- Dataset cleaning.
-- Python for data analysis.
+## Topicos:
+- Orange Data Mining.
+- Automatização de tarefas com Python.
+- Análises Estatisticas.
+- Análise de dados de insights.
+
+## 🔍Explorado até o momento:
 
 ## Orange Data Mining 🍊
 
@@ -21,8 +21,6 @@
 - Mineração de dados.
 - Análise de Imagens.
 - Fluxos de Trabalhos.
-
-## 🔍Explorado até o momento:
 
 ## Freeviz
 ### Objetivo:
@@ -42,3 +40,18 @@
 
 #### Resultado de semelhança entre imagens apos verificação do cluster:
 ![imagecluster](https://github.com/user-attachments/assets/b5081dc0-3aa5-45c1-9fc0-f0e2f6a66947)
+
+## Correlação
+### Objetivo:
+- Faz relações diretas entre atributos. Por meio de um coeficiente mede o grau da correlação entre duas variaveis de escala métrica.
+
+## K-means
+### Objetivo:
+- Classificação baseada em análise e comparações entre os valores numéricos dos dados.
+
+## Regras associações
+### Objetivo:
+- Achar elementos que ocorrem em comum por meio de metricas: Suporte/Confiança.
+
+
+## Automatização com Python 🐍
