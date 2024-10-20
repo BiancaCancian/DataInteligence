@@ -55,4 +55,16 @@
 - Achar elementos que ocorrem em comum por meio de metricas: Suporte/Confiança.
 
 
+## ETL & ELT  
+
+### Sobre:
+- ETL é o ato de Extrair, Transformar e Carregar dados.
+- ELT é o ato de Extrair, Carregar e Transformar dados.
+
+## DataLake & Data Warehouse
+
+### Sobre:
+- Data Lake armazena grande quantidade de dados em sua forma original isso pode ser: estruturado e não estruturados.
+- Data Warehouse armazena dados relacionais e é otimizado para operações de leitura.
+
 ## Automatização com Python 🐍
