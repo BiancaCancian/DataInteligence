@@ -68,3 +68,44 @@
 - Data Warehouse armazena dados relacionais e é otimizado para operações de leitura.
 
 ## Automatização com Python 🐍
+### Principais Bibliotecas Python para Automação:
+
+<details>
+  <summary>Selenium</summary>
+     Uma biblioteca para automatizar tarefas em navegadores web e testar aplicativos.
+</details>
+
+<details>
+  <summary>BeautifulSoup</summary>
+    Fornece uma interface simples para navegar e pesquisar a estrutura de árvore dos arquivos extraídos de páginas web
+</details>
+
+<details>
+  <summary>Scrapy</summary>
+    Uma biblioteca para construir rastreadores e raspadores da web escalonáveis ​​e eficientes.
+</details>
+
+<details>
+  <summary>Requests</summary>
+    Uma biblioteca para fazer solicitações HTTP em Python.
+</details>
+
+<details>
+  <summary>PyAutoGUI</summary>
+    Uma biblioteca para automatizar interações GUI (Graphical User Interface) e controlar mouse e teclado.
+</details>
+
+<details>
+  <summary>LXML</summary>
+   Uma biblioteca para analisar documentos XML e HTML de forma eficiente.
+</details>
+
+<details>
+  <summary>PyWinAuto</summary>
+   Uma biblioteca para automatizar aplicativos do Windows.
+</details>
+
+<details>
+  <summary>Pandas</summary>
+   Embora usado principalmente para manipulação e análise de dados, o Pandas também pode ser usado em web scraping.
+</details>
