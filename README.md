@@ -56,8 +56,6 @@
 
 
 ## ETL & ELT  
-
-### Sobre:
 <details>
   <summary>ETL</summary>
     ETL é o ato de Extrair, Transformar e Carregar dados.
@@ -69,10 +67,15 @@
 </details>
 
 ## DataLake & Data Warehouse
+<details>
+  <summary> Data Lake</summary>
+     Data Lake armazena grande quantidade de dados em sua forma original isso pode ser: estruturado e não estruturados.
+</details>
 
-### Sobre:
-- Data Lake armazena grande quantidade de dados em sua forma original isso pode ser: estruturado e não estruturados.
-- Data Warehouse armazena dados relacionais e é otimizado para operações de leitura.
+<details>
+  <summary> Data Warehouse</summary>
+     Data Warehouse armazena dados relacionais e é otimizado para operações de leitura.
+</details>
 
 ## Automatização com Python 🐍
 ### Principais Bibliotecas Python para Automação:
