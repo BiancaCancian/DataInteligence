@@ -58,8 +58,15 @@
 ## ETL & ELT  
 
 ### Sobre:
-- ETL é o ato de Extrair, Transformar e Carregar dados.
-- ELT é o ato de Extrair, Carregar e Transformar dados.
+<details>
+  <summary>ETL</summary>
+    ETL é o ato de Extrair, Transformar e Carregar dados.
+</details>
+
+<details>
+  <summary>ELT</summary>
+    ELT é o ato de Extrair, Carregar e Transformar dados.
+</details>
 
 ## DataLake & Data Warehouse
 
